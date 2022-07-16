@@ -1,6 +1,6 @@
 # Endless runner by Mridul Arora ✨
 
-This is a short 2d endless runner game made with cocos creator version 2.3.2 to test my abilities and try out cocos game engine. A short video is also included in the video folder named GAMEPLAY VID. Please check it out!
+This is a short 2d endless runner game made with cocos creator version 2.3.2 to test my abilities and try out cocos game engine. A short video is also included in the video folder named **GAMEPLAY VID**. Please check it out!
 
 
 # How to access the project :rocket:
