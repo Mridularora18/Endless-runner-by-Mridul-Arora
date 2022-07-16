@@ -9,6 +9,11 @@ To launch the project you must have cocos version 2.3.2  or newer which you can 
 
 
 
+# How to play 🕹️
+
+To play you can make a single left click to do a short jump and hold the left click to a double long jump! 
+
+
 # Made with :heart:
 
 By **Mridul Arora**
